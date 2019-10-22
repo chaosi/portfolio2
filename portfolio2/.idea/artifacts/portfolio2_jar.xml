@@ -1,0 +1,18 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="portfolio2:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/portfolio2_jar</output-path>
+    <root id="archive" name="portfolio2.jar">
+      <element id="module-output" name="portfolio2" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx-swt.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.base.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.controls.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.fxml.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.graphics.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.media.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.swing.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/openjfx-11.0.2_windows-x64_bin-sdk/javafx-sdk-11.0.2/lib/javafx.web.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="E:/java sdks/sqlite-jdbc-3.8.10.1.jar" path-in-jar="/" />
+      <element id="library" level="application" name="bin" />
+    </root>
+  </artifact>
+</component>
